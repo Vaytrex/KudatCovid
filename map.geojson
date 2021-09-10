@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [6.960305820496195,116.8123769914886]
+  },
+  "properties": {
+    "name": "13 Cases"
+  }
+}

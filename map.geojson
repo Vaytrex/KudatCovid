@@ -9,7 +9,8 @@
           "stroke": "#555555",
           "marker-size": "medium",
           "marker-symbol": "",
-          "popup-text": "13 cases"
+          "popup-text": "13 cases",
+          "radius": 500
         },
         "geometry": {
           "type": "Point",

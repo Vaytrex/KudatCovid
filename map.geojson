@@ -1,10 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [6.960305820496195,116.8123769914886]
-  },
-  "properties": {
-    "name": "13 Cases"
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "fill": "#7e7e7e",
+          "stroke": "#555555",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "popup-text": "13 cases"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.90605193368945,
+            116.84856891632
+          ]
+        }
+      }
+    ]
   }
-}
